@@ -1,0 +1,13 @@
+body{
+    font-family: "Luckiest Guy", cursive;
+    background: purple;
+    color: white;
+    margin: 0px;
+    margin-bottom:100px;
+
+}
+.chamada{
+    background: red;
+    display: flex;
+    justify-content: center;
+}
